@@ -50,3 +50,5 @@ DogScepter is a work-in-progress modding tool geared toward (but not limited to)
 ## Contributors
 For a full list of contributors, see here:
 https://github.com/colinator27/DogScepter/graphs/contributors
+big shot.
+
