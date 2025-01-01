@@ -29,5 +29,5 @@ jobs:
     - name: Upload self-contained
       uses: actions/upload-artifact@v2
       with:
-        name: DogScepterCLI_win_x64_selfcontained
+        name: DogScepterCLI_win_x64puls
         path: cli_win_x64_selfcontained
